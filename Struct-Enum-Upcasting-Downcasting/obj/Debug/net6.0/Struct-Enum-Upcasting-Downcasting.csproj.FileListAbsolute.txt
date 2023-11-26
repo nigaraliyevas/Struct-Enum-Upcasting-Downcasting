@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.csproj.CoreCompileInputs.cache

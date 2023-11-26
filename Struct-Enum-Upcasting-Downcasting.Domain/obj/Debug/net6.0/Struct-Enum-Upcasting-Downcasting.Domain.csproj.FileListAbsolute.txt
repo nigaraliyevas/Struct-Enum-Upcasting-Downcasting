@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\bin\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\bin\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\bin\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\refint\Struct-Enum-Upcasting-Downcasting.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting.Domain\obj\Debug\net6.0\ref\Struct-Enum-Upcasting-Downcasting.Domain.dll
