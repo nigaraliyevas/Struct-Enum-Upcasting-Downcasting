@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Struct-Enum-Upcasting-Downcasting/1.0.0": {
+        "dependencies": {
+          "Struct-Enum-Upcasting-Downcasting.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Struct-Enum-Upcasting-Downcasting.dll": {}
+        }
+      },
+      "Struct-Enum-Upcasting-Downcasting.Domain/1.0.0": {
+        "runtime": {
+          "Struct-Enum-Upcasting-Downcasting.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Struct-Enum-Upcasting-Downcasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Struct-Enum-Upcasting-Downcasting.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
