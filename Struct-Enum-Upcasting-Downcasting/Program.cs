@@ -36,9 +36,9 @@ group.AddStudent(student4);
 group.AddStudent(student5);
 group.AddStudent(student6);
 
-/*Console.WriteLine("<=================>Get Student Method<=================>");
+Console.WriteLine("<=================>Get Student Method<=================>\n");
 group.GetStudent(5);
-Console.WriteLine("<=================>Get All Students Method<=================>");
-group.GetAllStudents();*/
+Console.WriteLine("<=================>Get All Students Method<=================>\n");
+group.GetAllStudents();
 
 #endregion

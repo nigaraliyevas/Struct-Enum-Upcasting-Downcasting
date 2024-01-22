@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Struct-Enum-Upcasting-Downcasting.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+490be21632d6e8b75a2316422c6a2e72b4692d2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Struct-Enum-Upcasting-Downcasting.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Struct-Enum-Upcasting-Downcasting.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

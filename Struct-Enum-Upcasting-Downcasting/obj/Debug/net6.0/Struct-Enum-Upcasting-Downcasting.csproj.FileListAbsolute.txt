@@ -16,3 +16,4 @@ C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-D
 C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.pdb
 C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.genruntimeconfig.cache
 C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\ref\Struct-Enum-Upcasting-Downcasting.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Struct-Enum-Upcasting-Downcasting\Struct-Enum-Upcasting-Downcasting\obj\Debug\net6.0\Struct-Enum-Upcasting-Downcasting.sourcelink.json

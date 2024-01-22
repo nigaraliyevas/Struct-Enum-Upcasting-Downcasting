@@ -2,7 +2,7 @@
 
 namespace Struct_Enum_Upcasting_Downcasting.Domain
 {
-    public class Group:Student
+    public class Group
     {
         public string GroupNo { 
             get
@@ -66,26 +66,28 @@ namespace Struct_Enum_Upcasting_Downcasting.Domain
                 return;
             }
                 Console.WriteLine(student.StudentInfo()+" "+"added");
-            
         }
-        public void GetStudent(int id)
+        public Student GetStudent(int? id)
         {
+            if(id == null) return null;
             foreach (var student in _students)
             {
                 if (student.Id == id)
                 {
                     Console.WriteLine(student.StudentInfo());
-                    return;
+                    return student;
                 }
             }
             Console.WriteLine($"{id} ID Not found 404");
+            return null;
         }
-        public void GetAllStudents()
+        public Student[] GetAllStudents()
         {
             foreach(var stu in _students)
             {
                 Console.WriteLine(stu.StudentInfo());
             }
+            return _students;
         }
     }
 }
